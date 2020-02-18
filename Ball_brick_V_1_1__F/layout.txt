@@ -1,0 +1,8 @@
+VVVVV          VVVVVRRRRRRRRRRRRR
+  VVVVV       VVVV  RR        RRR
+   VVVV     VVVV    RR      RRRR 
+     VVVV VVVV      RR    RRRR   
+      VVVVVVV       RR RRRR      
+        VVVV        RR    RRRR   
+         VV         RR      RRRR 
+         VV         RR       RRRR
